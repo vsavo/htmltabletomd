@@ -1,0 +1,6 @@
+Change Log
+==========
+
+1.0.0 (03/13/2021)
+------------------
+- First Release (Convert HTML tables to Markdown, cell alignment, cell content conversion from HTML to Markdown)
